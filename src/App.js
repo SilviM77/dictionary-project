@@ -16,7 +16,7 @@ function App() {
       </main>
       <footer className="text-center">
       <small>Coded by Silvia Marocni</small> </footer>
-      Hello
+      Hello dolly
     </div>
     </div>
   );
