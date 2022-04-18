@@ -26,7 +26,7 @@ export default function Dictionary() {
             <input type="search" onChange=
             {handleKeywordChange} />
         </form>
-        <Results />
+    
         </div>
     );
 }
