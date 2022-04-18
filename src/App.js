@@ -15,8 +15,8 @@ function App() {
         <Dictionary />
       </main>
       <footer className="text-center">
-      <small>Coded by Silvia Marocni</small> </footer>
-      Hello dolly
+      <small>Coded by Silvia Marconi</small> </footer>
+      
     </div>
     </div>
   );
