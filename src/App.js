@@ -12,7 +12,7 @@ function App() {
         img-fluid" alt="logo" />
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="sunshine" />
       </main>
       <footer className="text-center">
       <small>Coded by Silvia Marconi</small> </footer>
