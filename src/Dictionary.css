@@ -2,24 +2,25 @@
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 20px;
-}
-.Dictionary section {
-    background: lavender;
+  }
+  
+  .Dictionary section {
+    background: white;
     padding: 30px;
-    border-radius: 8px;
-    border-radius: 0px 10px 20px rgba(0 0 0 / 10%);
-    margin: 20px 0;
-}
-
-.Dictionary input {
-    width: 100%;
-    padding: 6px 4px;
-    border: 11px solid #ddd;
-    color: #333;
     border-radius: 6px;
-}
-
-.Dictionary .hint {
+    box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+    margin: 20px 0;
+  }
+  
+  .Dictionary input {
+    width: 100%;
+    border-radius: 6px;
+    padding: 6px 10px;
+    color: #333;
+    border: 1px solid #ddd;
+  }
+  
+  .Dictionary .hint {
     font-size: 11px;
-    martin-top: 5px;
-}
+    margin-top: 5px;
+  }
