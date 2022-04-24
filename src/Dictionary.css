@@ -10,6 +10,7 @@
     border-radius: 6px;
     box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
     margin: 20px 0;
+
   }
   
   .Dictionary input {
@@ -23,4 +24,8 @@
   .Dictionary .hint {
     font-size: 11px;
     margin-top: 5px;
+  }
+
+  .Dictionary h4 {
+    font-size: 18px;
   }
